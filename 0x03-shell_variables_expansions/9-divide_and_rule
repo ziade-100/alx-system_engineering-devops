@@ -1,4 +1,2 @@
 #!/bin/bash
-POWER=6
-DIVIDE=3
 echo "$((POWER/DIVIDE))"
